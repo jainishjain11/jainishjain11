@@ -71,24 +71,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-</div>
-
-<p align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jainish-gh&theme=react&hide_border=true&border_radius=10" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=jainish-gh&count_private=true&show_icons=true&theme=react&hide_border=true&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jainish-gh&bg_color=20232a&color=61dafb&line=61dafb&point=f0fcff&area=true&hide_border=true&radius=8" width="800" />
-</p>
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=jainish-gh&theme=react&hide_border=true&layout=compact&border_radius=10" alt="Wakatime Stats" />
-</p>
-
-<div align="center">
 
 ## 🎯 Coding Quote
 <img width="300" src="https://media.giphy.com/media/E8OyB7fmX9XSo/giphy.gif" />
@@ -102,7 +84,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee" />
-  <h3>Thanks for stopping by! ⭐ Feel free to check out my repositories and contribute! 🚀</h3>
+  <h3>Thanks for visiting! ⭐ Feel free to check out my repositories and contribute! 🚀</h3>
 </div>
 
 
