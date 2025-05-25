@@ -75,9 +75,6 @@
 ## 🎯 Coding Quote
 <img width="300" src="https://media.giphy.com/media/E8OyB7fmX9XSo/giphy.gif" />
 <br>
-<blockquote>
-  <p><i>I can do this all day.</i></p>
-</blockquote>
 </div>
 
 <hr>
