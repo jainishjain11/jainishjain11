@@ -20,7 +20,7 @@
 - 📫 Reach me at: **jainishjain.1105@gmail.com**
 - 🖥️ My Portfolio: **[jainishjain11.Portfolio](https://jainishjain11.github.io/Portfolio/)**
 - 📄 [View My Resume](https://your-resume-link)
-- ⚡ Fun Fact: **"I can do this all day! 💀"**
+- ⚡ Fun Fact: **" When I demo my projects, my parents’ first question is always, “Did you really make this yourself?” 😄📱"**
 
 <div align="center">
 
