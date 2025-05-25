@@ -18,7 +18,7 @@
 - 🤝 Looking for collaborations on **AI, Open Source & Projects**
 - 🛠️ Exploring **Cloud & DevOps Tools**
 - 📫 Reach me at: **jainishjain.1105@gmail.com**
-- 🖥️ My Portfolio: **[jainishjain11.github.io/Portfolio](https://jainishjain11.github.io/Portfolio/)**
+- 🖥️ My Portfolio: **[jainishjain11.Portfolio](https://jainishjain11.github.io/Portfolio/)**
 - 📄 [View My Resume](https://your-resume-link)
 - ⚡ Fun Fact: **"I can do this all day! 💀"**
 
