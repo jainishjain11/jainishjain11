@@ -16,7 +16,7 @@
 </div>
 
 - 🔥 Currently diving deep into **Machine Learning & Full-Stack Development**
-- 🤝 Looking for collaborations on **AI, Open Source & Web Projects**
+- 🤝 Looking for collaborations on **AI, Open Source & Projects**
 - 🛠️ Exploring **Cloud & DevOps Tools**
 - 📫 Reach me at: **jainishjain.1105@gmail.com**
 - 🖥️ My Portfolio: **[my-portfolio-link](https://jainishjain11.github.io/Portfolio/)**
