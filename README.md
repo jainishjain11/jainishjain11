@@ -71,9 +71,10 @@
 <div align="center">
 
 
-## 🎯 Coding Quote
-<img width="300" src="https://media.giphy.com/media/E8OyB7fmX9XSo/giphy.gif" />
+## 
+<img width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU0ZGNtZW1hdWhpdW8zb3NtMmJzbW80a2R2dHdyamlud2R3ZjgxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5zqezgDTZjHBRVAMHA/giphy.gif" />
 <br>
+<h2>Yeahh, This is meee. </h2>
 </div>
 
 <hr>
