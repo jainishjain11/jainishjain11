@@ -19,7 +19,7 @@
 - 🛠️ Exploring **Cloud & DevOps Tools**
 - 📫 Reach me at: **jainishjain.1105@gmail.com**
 - 🖥️ My Portfolio: **[jainishjain11.Portfolio](https://jainishjain11.github.io/Portfolio/)**
-- 📄 [View My Resume](google.com)
+- 📄 [View My Resume](https://www.google.com/)
 - ⚡ Fun Fact: **" When I demo my projects, my parents’ first question is always, “Did you really make this yourself?” 😄📱"**
 
 <div align="center">
