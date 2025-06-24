@@ -70,15 +70,19 @@
 
 <div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainishjain11&show_icons=true&locale=en" alt="jainishjain11" /></p>
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=jainishjain11&show_icons=true&locale=en" alt="jainishjain11" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainishjain11&" alt="jainishjain11" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainishjain11&" alt="jainishjain11" /></p>
-
-## 
-<img width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU0ZGNtZW1hdWhpdW8zb3NtMmJzbW80a2R2dHdyamlud2R3ZjgxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5zqezgDTZjHBRVAMHA/giphy.gif" />
-<br>
-<h2>Yeahh, This is meee. </h2>
 </div>
+
 
 <hr>
 
