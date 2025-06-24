@@ -68,21 +68,10 @@
   </p>
 </details>
 
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=jainishjain11&show_icons=true&locale=en" alt="jainishjain11" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainishjain11&" alt="jainishjain11" />
-    </td>
-  </tr>
-</table>
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jainishjain11&show_icons=true&locale=en" alt="jainishjain11" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainishjain11&" alt="jainishjain11" />
 </div>
-
 
 <hr>
 
