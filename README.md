@@ -29,12 +29,16 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jainish-jain-7364a228a/" target="_blank">
+  <a href="https://www.linkedin.com/in/jainishjain11/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="https://leetcode.com/u/jainishjain11/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+
+   <a href="https://www.hackerrank.com/profile/jj5748" target="_blank">
+   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
 </p>
 
