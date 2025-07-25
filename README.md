@@ -18,8 +18,8 @@
 - 🤝 Looking for collaborations on **AI, Open Source & Projects**
 - 🛠️ Exploring **Cloud & DevOps Tools**
 - 📫 Reach me at: **jainishjain.1105@gmail.com**
-- 🖥️ My Portfolio: **[jainishjain11.Portfolio](https://jainish-portfolio-blond.vercel.app/)**
-- 📄 [View My Resume](https://drive.google.com/file/d/1mgw0uKpWr1ciRNeNsSnV1yV0yEW9QFrP/view?usp=sharing)
+- 🖥️ My Portfolio: **[jainishjain11.Portfolio](https://jainishjain11-portfolio.vercel.app/)**
+- 📄 [View My Resume](https://drive.google.com/file/d/1r7EnK3aHi8TCbnRH0rbnN_HF9KwE3CxB/view?usp=sharing)
 - ⚡ Fun Fact: **" When I demo my projects, my parents’ first question is always, “Did you really make this yourself?” 😄📱"**
 
 <div align="center">
