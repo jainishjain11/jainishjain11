@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <b>Computer Science Student | Full-Stack Developer | ML Enthusiast 🚀</b>
+  <b>Computer Science Student | Software Developer | ML Enthusiast 🚀</b>
 </p>
 
 <div align="center">
@@ -14,9 +14,9 @@
 
 </div>
 
-- 🔥 Currently diving deep into **Machine Learning & Full-Stack Development**.
+- 🔥 Currently diving deep into **Machine Learning & Software Development**.
 - 🤝 Looking for collaborations on **AI, Open Source & Projects**
-- 🛠️ Exploring **Cloud & DevOps Tools**
+- 🛠️ Exploring **Cloud, Flutter & DevOps Tools**
 - 📫 Reach me at: **jainishjain.1105@gmail.com**
 - 🖥️ My Portfolio: **[jainishjain11.Portfolio](https://jainishjain11-portfolio.vercel.app/)**
 - 📄 [View My Resume](https://drive.google.com/file/d/1nU6oyHpgsEflDqbsvb-HWtKAjqnAE6AM/view?usp=sharing)
