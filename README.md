@@ -19,7 +19,7 @@
 - 🛠️ Exploring **Cloud, Flutter & DevOps Tools**
 - 📫 Reach me at: **jainishjain.1105@gmail.com**
 - 🖥️ My Portfolio: **[jainishjain11.Portfolio](https://jainishjain11-portfolio.vercel.app/)**
-- 📄 [View My Resume](https://drive.google.com/file/d/1nU6oyHpgsEflDqbsvb-HWtKAjqnAE6AM/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/1K5S82mi0V0FsyDO8HReESMJ48orTAbfc/view?usp=drive_link)
 - ⚡ Fun Fact: **" When I demo my projects, my parents’ first question is always, “Did you really make this yourself?” 😄📱"**
 
 <div align="center">
