@@ -17,7 +17,7 @@
 - 🔥 Currently diving deep into **Machine Learning & Software Development**.
 - 🤝 Looking for collaborations on **AI, Open Source & Projects**
 - 🛠️ Exploring **Cloud, Flutter & DevOps Tools**
-- 📫 Reach me at: **jainishjain.1105@gmail.com**
+- 📫 Reach me at: **work.jainishjain@gmail.com**, **jj5748@srmist.edu.in**
 - 🖥️ My Portfolio: **[jainishjain11.Portfolio](https://jainishjain11-portfolio.vercel.app/)**
 - 📄 [View My Resume](https://drive.google.com/file/d/1K5S82mi0V0FsyDO8HReESMJ48orTAbfc/view?usp=drive_link)
 - ⚡ Fun Fact: **" When I demo my projects, my parents’ first question is always, “Did you really make this yourself?” 😄📱"**
